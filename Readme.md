@@ -20,7 +20,7 @@ This repository contains all scripts required to reproduce the simulation and nu
 | `SPAManalInv15102025.m` | Fig. 3 | Plots results. |
 | `Readme on SPAM experiments 18042025.docx` | Fig. 3 |  Contains description of how to use code scripts related to SPAM experiments results shown in Fig.3. |
 | `adaptiveLSB29092023.m` | Fig. 3, 4 | Contains code of ARM-m. |
-| `stc_embed_29032021.m`, `calc_syndrome.m`, `create_code_from_submatrix.m`, `create_from_submatrix.m', `dualviterbi.m` | Fig. 3 | Contain code for STC. |
+| `stc_embed_29032021.m`, `calc_syndrome.m`, `create_code_from_submatrix.m`, `create_from_submatrix.m`, `dualviterbi.m` | Fig. 3 | Contain code for STC. |
 | `mlsbrevpair_embed_16072021.m` | Fig. 3 | Contains code for ALSBMR. |
 | `OPAP21052021.m` | Fig. 3 | LContains code for OOPAP. |
 | `Make_stegos_11102025.m` | Fig. 4 | Contains code for CNN experiments. |
