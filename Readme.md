@@ -50,5 +50,5 @@ This repository contains all scripts required to reproduce the simulation and nu
 ## ✉️ Contact
 
 For questions or replication of results:  
-gurcu.oz@emu.edu.tr, alexander.chefranoc@emu.edu.tr
+gurcu.oz@emu.edu.tr, alexander.chefranov@emu.edu.tr
 
