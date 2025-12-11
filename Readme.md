@@ -9,7 +9,7 @@
 
 ## 📁 Included Scripts
 
-This repository contains all scripts required to reproduce the simulation and numerical results presented in the article.
+This repository contains scripts required to reproduce the simulation and numerical results presented in the article.
 
 | Script | Related Figure(s) | Description |
 |--------|-------------------|-------------|
